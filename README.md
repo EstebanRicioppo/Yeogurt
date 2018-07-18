@@ -1,2 +1,0 @@
-# Yeogurt
-prueba yeogurt-netlify
